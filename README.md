@@ -211,7 +211,7 @@ export default new IsaiReyes();
 
 ⭐ Estado: **En desarrollo**
 
-🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
 
 </td>
 
@@ -227,7 +227,7 @@ export default new IsaiReyes();
 
 ⭐ Estado: **Activo**
 
-🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
 
 </td>
 
@@ -247,7 +247,7 @@ export default new IsaiReyes();
 
 ⭐ Estado: **Finalizado**
 
-🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
 
 </td>
 
@@ -263,7 +263,7 @@ export default new IsaiReyes();
 
 ⭐ Estado: **Activo**
 
-🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
 
 </td>
 
@@ -283,7 +283,7 @@ export default new IsaiReyes();
 
 ⭐ Estado: **Finalizado**
 
-🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
 
 </td>
 
