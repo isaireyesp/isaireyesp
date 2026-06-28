@@ -14,38 +14,78 @@
 
 # 🚀 Sobre mí
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ```ts
-class Desarrollador {
+class IsaiReyes {
 
-    nombre = "Isai Reyes";
+    readonly nombre = "Isai Reyes Peña";
 
-    rol = "Full Stack Developer";
+    readonly pais = "🇲🇽 México";
 
-    ubicacion = "México";
+    readonly rol = "💻 Full Stack Developer";
 
-    aprendiendo = [
-        "Machine Learning",
-        "Computer Vision",
-        "Deep Learning"
+    readonly stack = {
+        frontend: [
+            "React",
+            "Next.js",
+            "Vue",
+            "TypeScript"
+        ],
+
+        backend: [
+            "Spring Boot",
+            "Node.js",
+            "Express",
+            "Python"
+        ],
+
+        databases: [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB"
+        ]
+    };
+
+    readonly aprendiendo = [
+        "Machine Learning 🤖",
+        "Computer Vision 👁️",
+        "Deep Learning 🧠",
+        "React Native 📱"
     ];
 
-    especialidades = [
-        "React",
-        "Spring Boot",
-        "Node.js",
-        "TypeScript",
-        "Python"
+    readonly herramientas = [
+        "Git",
+        "Docker",
+        "Linux",
+        "Postman",
+        "VS Code"
     ];
+
+    constructor() {
+        console.log("¡Bienvenido a mi perfil! 👋");
+    }
+
+    trabajar() {
+        return [
+            "☕ Café",
+            "🎧 Música",
+            "💻 Código limpio",
+            "🚀 Nuevos proyectos"
+        ];
+    }
 
     objetivo() {
-        return "Crear proyectos increíbles con IA 🚀";
+        return "Crear software útil que resuelva problemas reales.";
     }
 }
+
+export default new IsaiReyes();
 ```
 
-<br>
+<br clear="right"/>
+
+---
 
 # ⚡ Stack Tecnológico
 
