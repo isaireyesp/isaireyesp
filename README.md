@@ -14,11 +14,24 @@
 
 # 🚀 Sobre mí
 
-<p align="right">
-  <img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/><br><br>
-  <img width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/><br><br>
-  <img width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-</p>
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<img width="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br><br>
+
+<img width="240" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+<br><br>
+
+<img width="240" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+</td>
+
+<td width="65%">
 
 ```ts
 class IsaiReyes {
@@ -75,29 +88,27 @@ class IsaiReyes {
         "🚀 Open Source"
     ];
 
-    constructor() {
-        console.log("¡Bienvenido a mi perfil! 👋");
-    }
-
     trabajar() {
         return [
             "☕ Café",
-            "🎧 Música",
-            "💻 Código limpio",
-            "🤖 Inteligencia Artificial",
-            "🚀 Nuevos proyectos"
+            "💻 Código",
+            "🤖 IA",
+            "🐧 Linux"
         ];
     }
 
     objetivo() {
-        return "Crear software útil que resuelva problemas reales.";
+        return "Crear software que haga la diferencia.";
     }
 }
 
 export default new IsaiReyes();
 ```
 
-<br clear="right"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
