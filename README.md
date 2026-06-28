@@ -14,7 +14,7 @@
 
 # 🚀 Sobre mí
 
-<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ```ts
 class IsaiReyes {
