@@ -319,7 +319,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-compact"/>
 
 </div>
 
