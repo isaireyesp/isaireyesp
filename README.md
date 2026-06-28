@@ -191,18 +191,109 @@ export default new IsaiReyes();
 
 ---
 
-# 🌟 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-| 🚀 Proyecto | 📄 Descripción |
-|------------|----------------|
-| 🤖 Traductor IA | Traducción de Lengua de Señas mediante IA |
-| ⚽ Predictor de Fútbol | Predicción de marcadores usando Machine Learning |
-| 🛒 TimShop | Tienda en línea desarrollada con Vue |
-| 🎮 Juego de Aventura | Videojuego desarrollado con React + TypeScript |
-| 📰 Blog Moderno | Blog minimalista con Firebase |
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Traductor de Lengua de Señas
+
+> Convierte gestos de Lengua de Señas en texto y voz utilizando modelos de Inteligencia Artificial.
+
+**🛠 Tecnologías**
+
+`React` `Python` `TensorFlow` `OpenCV`
+
+⭐ Estado: **En desarrollo**
+
+🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
+</td>
+
+<td width="50%">
+
+## ⚽ Predictor Inteligente de Fútbol
+
+> Predicción de resultados y marcador más probable mediante Machine Learning y estadísticas avanzadas.
+
+**🛠 Tecnologías**
+
+`React` `FastAPI` `Scikit-Learn`
+
+⭐ Estado: **Activo**
+
+🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🛒 TimShop
+
+> Tienda en línea con autenticación, carrito de compras y panel administrativo.
+
+**🛠 Tecnologías**
+
+`Vue` `Spring Boot` `MySQL`
+
+⭐ Estado: **Finalizado**
+
+🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
+</td>
+
+<td>
+
+## 🎮 Adventure Game
+
+> Videojuego 2D desarrollado con React y TypeScript inspirado en juegos clásicos.
+
+**🛠 Tecnologías**
+
+`React` `TypeScript` `Phaser`
+
+⭐ Estado: **Activo**
+
+🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 📰 Blog Moderno
+
+> Plataforma para publicar artículos con autenticación, base de datos y diseño responsive.
+
+**🛠 Tecnologías**
+
+`React` `Firebase` `TailwindCSS`
+
+⭐ Estado: **Finalizado**
+
+🔗 **Repositorio:** *(Agrega aquí el enlace)*
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
-
 # 📈 Actividad
 
 <div align="center">
