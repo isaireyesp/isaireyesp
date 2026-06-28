@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=isaireyesp1&label=Visitas&style=flat-square&color=58A6FF"/>
+<img src="https://komarev.com/ghpvc/?username=isaireyesp&label=Visitas&style=flat-square&color=58A6FF"/>
 
 </div>
 
@@ -299,9 +299,9 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true"/>
 
 </div>
 
@@ -309,7 +309,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=default&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true"/>
 
 </div>
 
@@ -319,7 +319,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp&theme=github-compact"/>
 
 </div>
 
@@ -329,7 +329,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<a href="https://github.com/isaireyesp1">
+<a href="https://github.com/isaireyesp">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
