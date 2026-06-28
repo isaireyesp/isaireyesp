@@ -14,38 +14,114 @@
 
 # 🚀 Sobre mí
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
 
-```ts
-class Desarrollador {
+<td width="40%" align="center">
 
-    nombre = "Isai Reyes";
-
-    rol = "Full Stack Developer";
-
-    ubicacion = "México";
-
-    aprendiendo = [
-        "Machine Learning",
-        "Computer Vision",
-        "Deep Learning"
-    ];
-
-    especialidades = [
-        "React",
-        "Spring Boot",
-        "Node.js",
-        "TypeScript",
-        "Python"
-    ];
-
-    objetivo() {
-        return "Crear proyectos increíbles con IA 🚀";
-    }
-}
-```
+<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 <br>
+
+<img width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+<br>
+
+<img width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+<br><br>
+
+```yaml
+SO: Linux 🐧
+Editor: VS Code
+Stack: Full Stack
+Estado: Coding...
+IA: ON
+```
+
+</td>
+
+<td width="60%">
+
+```ts
+class IsaiReyes {
+
+    readonly nombre = "Isai Reyes Peña";
+
+    readonly pais = "🇲🇽 México";
+
+    readonly rol = "💻 Full Stack Developer";
+
+    readonly stack = {
+
+        frontend: [
+            "React",
+            "Next.js",
+            "Vue",
+            "TypeScript"
+        ],
+
+        backend: [
+            "Spring Boot",
+            "Node.js",
+            "Express",
+            "Python"
+        ],
+
+        databases: [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB"
+        ]
+
+    };
+
+    readonly aprendiendo = [
+        "Machine Learning 🤖",
+        "Computer Vision 👁️",
+        "Deep Learning 🧠",
+        "React Native 📱"
+    ];
+
+    readonly herramientas = [
+        "Git",
+        "Docker",
+        "Linux",
+        "Postman",
+        "VS Code"
+    ];
+
+    readonly hobbies = [
+        "🐧 Linux",
+        "🎮 Videojuegos",
+        "☕ Café",
+        "🎵 Música",
+        "🚀 Open Source"
+    ];
+
+    trabajar() {
+        return [
+            "☕ Café",
+            "💻 Código",
+            "🤖 IA",
+            "🐧 Linux"
+        ];
+    }
+
+    objetivo() {
+        return "Crear software útil que haga la diferencia.";
+    }
+}
+
+export default new IsaiReyes();
+```
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # ⚡ Stack Tecnológico
 
