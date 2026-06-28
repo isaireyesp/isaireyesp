@@ -2,145 +2,179 @@
 
 # 👋 ¡Hola! Soy Isai Reyes Peña
 
-### 💻 Desarrollador Full Stack | 🤖 Inteligencia Artificial | 🚀 Software Engineer
+### 💻 Desarrollador Full Stack • 🤖 Inteligencia Artificial • 🚀 Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+Portafolio;Desarrollador+Full+Stack;React+•+Spring+Boot+•+Python;Creando+proyectos+modernos+y+con+IA" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Full+Stack;React+%7C+Spring+Boot+%7C+Python;Construyendo+proyectos+con+Inteligencia+Artificial" />
+
+<img src="https://komarev.com/ghpvc/?username=isaireyesp1&label=VISITAS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 Sobre este portafolio
+# 🚀 Sobre mí
 
-Este repositorio reúne algunos de los proyectos que he desarrollado durante mi formación y experiencia como desarrollador Full Stack.
-
-Aquí encontrarás aplicaciones web, proyectos de Inteligencia Artificial, APIs REST, videojuegos y aplicaciones móviles, desarrollados utilizando tecnologías modernas y buenas prácticas de desarrollo.
-
----
-
-# 👨‍💻 Sobre mí
-
-<img align="right" width="280" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```ts
-const isai = {
+class Desarrollador {
 
-    nombre: "Isai Reyes Peña",
+    nombre = "Isai Reyes";
 
-    país: "México",
+    rol = "Full Stack Developer";
 
-    rol: "Full Stack Developer",
+    ubicacion = "México";
 
-    especialidad: [
+    aprendiendo = [
+        "Machine Learning",
+        "Computer Vision",
+        "Deep Learning"
+    ];
+
+    especialidades = [
         "React",
         "Spring Boot",
         "Node.js",
-        "TypeScript"
-    ],
+        "TypeScript",
+        "Python"
+    ];
 
-    actualmente: [
-        "Machine Learning",
-        "Inteligencia Artificial",
-        "React Native"
-    ],
-
-    objetivo: "Construir software útil e innovador."
+    objetivo() {
+        return "Crear proyectos increíbles con IA 🚀";
+    }
 }
 ```
 
 <br>
 
----
+# ⚡ Stack Tecnológico
 
-# 🛠 Tecnologías
+<div align="center">
 
-## Frontend
+### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap,vite"/>
 
-## Backend
+### Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python"/>
 
-## Bases de Datos
+### Bases de Datos
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 
-## Herramientas
+### Herramientas
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,npm" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,npm"/>
+
+</div>
 
 ---
 
-# 🌟 Proyectos
+# 🌟 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🤖 Traductor IA | Traducción de Lengua de Señas mediante Inteligencia Artificial | React · Python · TensorFlow |
-| ⚽ Predictor de Partidos | Predicción de resultados usando Machine Learning | React · FastAPI · Scikit-Learn |
-| 🛒 TimShop | Tienda en línea con carrito de compras | Vue · Spring Boot · MySQL |
-| 🎮 Adventure Game | Juego desarrollado con React y TypeScript | React · TypeScript |
-| 📰 Blog | Blog moderno conectado con Firebase | React · Firebase |
-
----
-
-# 📈 Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+| 🚀 Proyecto | 📄 Descripción |
+|------------|----------------|
+| 🤖 Traductor IA | Traducción de Lengua de Señas mediante IA |
+| ⚽ Predictor de Fútbol | Predicción de marcadores usando Machine Learning |
+| 🛒 TimShop | Tienda en línea desarrollada con Vue |
+| 🎮 Juego de Aventura | Videojuego desarrollado con React + TypeScript |
+| 📰 Blog Moderno | Blog minimalista con Firebase |
 
 ---
 
-# 📂 Repositorios
+# 📈 Actividad
 
-📌 Cada proyecto cuenta con:
+<div align="center">
 
-- 📖 Documentación
-- 📸 Capturas de pantalla
-- 🚀 Instrucciones de instalación
-- 🛠 Tecnologías utilizadas
-- 📱 Diseño responsivo
-- 📦 Código organizado
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=isaireyesp1&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📬 Contacto
+# 🏆 Logros
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌎 Redes Sociales
+
+<div align="center">
 
 <a href="https://github.com/isaireyesp1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/isai-reyes-pe%C3%B1a-a13a06329/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:correo@ejemplo.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://x.com/Isairp1281">
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 💻 Mi Código
+
+```typescript
+const isai = {
+
+    nombre: "Isai Reyes",
+
+    cargo: "Full Stack Developer",
+
+    tecnologias: {
+        frontend: [
+            "React",
+            "Next.js",
+            "Vue"
+        ],
+
+        backend: [
+            "Spring Boot",
+            "Node.js",
+            "Express"
+        ],
+
+        lenguajeFavorito: [
+            "TypeScript",
+            "Python"
+        ]
+    },
+
+    actualmente: [
+        "Inteligencia Artificial",
+        "Machine Learning",
+        "React Native"
+    ],
+
+    disponiblePara: "Nuevos proyectos 🚀"
+}
+```
 
 ---
 
 <div align="center">
 
-## 💬 "La programación es convertir ideas en realidad."
+## ⭐ "El código no solo debe funcionar, también debe sorprender."
 
-⭐ Gracias por visitar mi portafolio.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer"/>
 
 </div>
