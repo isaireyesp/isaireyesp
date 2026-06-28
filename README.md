@@ -14,7 +14,11 @@
 
 # 🚀 Sobre mí
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<p align="right">
+  <img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/><br><br>
+  <img width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/><br><br>
+  <img width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+</p>
 
 ```ts
 class IsaiReyes {
@@ -26,6 +30,7 @@ class IsaiReyes {
     readonly rol = "💻 Full Stack Developer";
 
     readonly stack = {
+
         frontend: [
             "React",
             "Next.js",
@@ -62,6 +67,14 @@ class IsaiReyes {
         "VS Code"
     ];
 
+    readonly hobbies = [
+        "🐧 Linux",
+        "🎮 Videojuegos",
+        "☕ Café",
+        "🎵 Música",
+        "🚀 Open Source"
+    ];
+
     constructor() {
         console.log("¡Bienvenido a mi perfil! 👋");
     }
@@ -71,6 +84,7 @@ class IsaiReyes {
             "☕ Café",
             "🎧 Música",
             "💻 Código limpio",
+            "🤖 Inteligencia Artificial",
             "🚀 Nuevos proyectos"
         ];
     }
