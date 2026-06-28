@@ -141,21 +141,51 @@ export default new IsaiReyes();
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,bootstrap,tailwind,sass,materialui,redux"/>
 
-### Backend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python"/>
+### ⚙️ Backend
 
-### Bases de Datos
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi,php"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+<br><br>
 
-### Herramientas
+### 📱 Desarrollo Móvil
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,npm"/>
+<img src="https://skillicons.dev/icons?i=react,androidstudio"/>
+
+<br><br>
+
+### 🤖 Inteligencia Artificial & Ciencia de Datos
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+
+<br><br>
+
+### 🗄️ Bases de Datos
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
+
+<br><br>
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify"/>
+
+<br><br>
+
+### 🛠️ Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,npm,yarn"/>
+
+<br><br>
+
+### 🐧 Sistemas Operativos
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows"/>
 
 </div>
 
