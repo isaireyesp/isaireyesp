@@ -17,21 +17,31 @@
 <table>
 <tr>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img width="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br>
+
+<img width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+<br>
+
+<img width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 <br><br>
 
-<img width="240" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-
-<br><br>
-
-<img width="240" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+```yaml
+SO: Linux 🐧
+Editor: VS Code
+Stack: Full Stack
+Estado: Coding...
+IA: ON
+```
 
 </td>
 
-<td width="65%">
+<td width="60%">
 
 ```ts
 class IsaiReyes {
@@ -63,6 +73,7 @@ class IsaiReyes {
             "PostgreSQL",
             "MongoDB"
         ]
+
     };
 
     readonly aprendiendo = [
@@ -98,7 +109,7 @@ class IsaiReyes {
     }
 
     objetivo() {
-        return "Crear software que haga la diferencia.";
+        return "Crear software útil que haga la diferencia.";
     }
 }
 
