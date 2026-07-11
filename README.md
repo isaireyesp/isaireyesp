@@ -299,12 +299,12 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=37">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=33"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=376">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=336"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=37">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=33"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=367">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=363"/>
 </a>
 
 </div>
