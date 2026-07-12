@@ -20,13 +20,13 @@
 
 <div align="center">
 
-> ### *"El mejor código no solo funciona, también inspira."* 🚀
+> ### *"El mejor código no solo funciona, también inspira."* 
 
 </div>
 
 ---
 
-# 🚀 Sobre mí
+#  Sobre mí
 
 <table>
 <tr>
@@ -64,7 +64,7 @@ class IsaiReyes {
 
     readonly pais = "🇲🇽 México";
 
-    readonly rol = "💻 Full Stack Developer";
+    readonly rol = " Full Stack Developer";
 
     readonly stack = {
 
@@ -91,10 +91,10 @@ class IsaiReyes {
     };
 
     readonly aprendiendo = [
-        "Machine Learning 🤖",
-        "Computer Vision 👁️",
-        "Deep Learning 🧠",
-        "React Native 📱"
+        "Machine Learning ",
+        "Computer Vision ",
+        "Deep Learning ",
+        "React Native "
     ];
 
     readonly herramientas = [
@@ -106,19 +106,19 @@ class IsaiReyes {
     ];
 
     readonly hobbies = [
-        "🐧 Linux",
-        "🎮 Videojuegos",
-        "☕ Café",
-        "🎵 Música",
-        "🚀 Open Source"
+        " Linux",
+        " Videojuegos",
+        " Café",
+        " Música",
+        " Open Source"
     ];
 
     trabajar() {
         return [
-            "☕ Café",
-            "💻 Código",
-            "🤖 IA",
-            "🐧 Linux"
+            " Café",
+            " Código",
+            " IA",
+            " Linux"
         ];
     }
 
@@ -137,53 +137,53 @@ export default new IsaiReyes();
 
 ---
 
-# ⚡ Stack Tecnológico
+#  Stack Tecnológico
 
 <div align="center">
 
-### 🎨 Frontend
+###  Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,bootstrap,tailwind,sass,materialui,redux"/>
 
 <br><br>
 
-### ⚙️ Backend
+###  Backend
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi,php"/>
 
 <br><br>
 
-### 📱 Desarrollo Móvil
+###  Desarrollo Móvil
 
 <img src="https://skillicons.dev/icons?i=react,androidstudio"/>
 
 <br><br>
 
-### 🤖 Inteligencia Artificial & Ciencia de Datos
+###  Inteligencia Artificial & Ciencia de Datos
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
 
 <br><br>
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
 
 <br><br>
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify"/>
 
 <br><br>
 
-### 🛠️ Herramientas
+###  Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,npm,yarn"/>
 
 <br><br>
 
-### 🐧 Sistemas Operativos
+###  Sistemas Operativos
 
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows"/>
 
@@ -191,7 +191,7 @@ export default new IsaiReyes();
 
 ---
 
-# 🚀 Proyectos Destacados
+#  Proyectos Destacados
 
 <div align="center">
 
@@ -201,15 +201,15 @@ export default new IsaiReyes();
 
 <td width="50%">
 
-## 🤖 Traductor de Lengua de Señas
+##  Traductor de Lengua de Señas
 
 > Convierte gestos de Lengua de Señas en texto y voz utilizando modelos de Inteligencia Artificial.
 
-**🛠 Tecnologías**
+** Tecnologías**
 
 `React` `Python` `TensorFlow` `OpenCV`
 
-⭐ Estado: **En desarrollo**
+ Estado: **En desarrollo**
 
 
 
@@ -217,15 +217,15 @@ export default new IsaiReyes();
 
 <td width="50%">
 
-## ⚽ Predictor Inteligente de Fútbol
+##  Predictor Inteligente de Fútbol
 
 > Predicción de resultados y marcador más probable mediante Machine Learning y estadísticas avanzadas.
 
-**🛠 Tecnologías**
+** Tecnologías**
 
 `React` `FastAPI` `Scikit-Learn`
 
-⭐ Estado: **Activo**
+ Estado: **Activo**
 
 
 
@@ -237,15 +237,15 @@ export default new IsaiReyes();
 
 <td>
 
-## 🛒 TimShop
+##  TimShop
 
 > Tienda en línea con autenticación, carrito de compras y panel administrativo.
 
-**🛠 Tecnologías**
+** Tecnologías**
 
 `Vue` `Spring Boot` `MySQL`
 
-⭐ Estado: **Finalizado**
+ Estado: **Finalizado**
 
 
 
@@ -253,15 +253,15 @@ export default new IsaiReyes();
 
 <td>
 
-## 🎮 Adventure Game
+##  Adventure Game
 
 > Videojuego 2D desarrollado con React y TypeScript inspirado en juegos clásicos.
 
-**🛠 Tecnologías**
+** Tecnologías**
 
 `React` `TypeScript` `Phaser`
 
-⭐ Estado: **Activo**
+ Estado: **Activo**
 
 
 
@@ -273,15 +273,15 @@ export default new IsaiReyes();
 
 <td colspan="2">
 
-## 📰 Blog Moderno
+##  Blog Moderno
 
 > Plataforma para publicar artículos con autenticación, base de datos y diseño responsive.
 
-**🛠 Tecnologías**
+** Tecnologías**
 
 `React` `Firebase` `TailwindCSS`
 
-⭐ Estado: **Finalizado**
+ Estado: **Finalizado**
 
 
 
@@ -295,7 +295,7 @@ export default new IsaiReyes();
 
 ---
 
-# 📈 Actividad
+#  Actividad
 
 <div align="center">
 
@@ -319,7 +319,7 @@ export default new IsaiReyes();
 
 ---
 
-# 🏆 Logros
+#  Logros
 
 <div align="center">
 
@@ -329,7 +329,7 @@ export default new IsaiReyes();
 
 ---
 
-# 🌎 Redes Sociales
+#  Redes Sociales
 
 <div align="center">
 
@@ -349,7 +349,7 @@ export default new IsaiReyes();
 
 ---
 
-# 💻 Mi Código
+#  Mi Código
 
 ```typescript
 const isai = {
@@ -383,7 +383,7 @@ const isai = {
         "React Native"
     ],
 
-    disponiblePara: "Nuevos proyectos 🚀"
+    disponiblePara: "Nuevos proyectos "
 }
 ```
 
@@ -391,7 +391,7 @@ const isai = {
 
 <div align="center">
 
-## ⭐ "El código no solo debe funcionar, también debe sorprender."
+##  "El código no solo debe funcionar, también debe sorprender."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer"/>
 
