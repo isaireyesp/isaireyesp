@@ -299,12 +299,12 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=3756">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=8356"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=356">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=856"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=3587">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=358"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=387">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=35"/>
 </a>
 
 </div>
@@ -313,7 +313,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=2257"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=257"/>
 
 </div>
 
@@ -323,7 +323,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp&theme=github-compact&cache_seconds=2857"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp&theme=github-compact&cache_seconds=287"/>
 
 </div>
 
