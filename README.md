@@ -311,6 +311,15 @@ export default new IsaiReyes();
 
 <br>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaireyesp&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaireyesp&theme=vue&cache_seconds=370" />
+
+</p>
+
+<br>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=2537"/>
