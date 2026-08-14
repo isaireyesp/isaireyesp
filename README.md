@@ -322,7 +322,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=79377"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=7937"/>
 
 </div>
 
