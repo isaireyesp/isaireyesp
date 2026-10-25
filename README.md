@@ -1,5 +1,9 @@
 <div align="center">
 
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:1F6FEB,70:58A6FF,100:7EE787&text=Isai%20Reyes%20Peña&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Full+Stack;Construyendo+proyectos+con+Inteligencia+Artificial;React+%7C+Spring+Boot+%7C+Python;Linux+Lover+%7C+Open+Source" />
