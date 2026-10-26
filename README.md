@@ -303,12 +303,12 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=7344">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=2325"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=744">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp&show_icons=true&theme=default&hide_border=true&cache_seconds=325"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=4432">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=4535"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=442">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp&layout=compact&theme=default&hide_border=true&cache_seconds=455"/>
 </a>
 
 </div>
@@ -318,7 +318,7 @@ export default new IsaiReyes();
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaireyesp&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaireyesp&theme=vue&cache_seconds=5732" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaireyesp&theme=vue&cache_seconds=732" />
 
 </p>
 
@@ -326,7 +326,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=2753"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp&theme=default&hide_border=true&cache_seconds=273"/>
 
 </div>
 
@@ -336,7 +336,7 @@ export default new IsaiReyes();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp&theme=github-compact&cache_seconds=7377"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp&theme=github-compact&cache_seconds=777"/>
 
 </div>
 
